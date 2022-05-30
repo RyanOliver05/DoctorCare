@@ -9,7 +9,7 @@
 :root {
   font-size: 62.5%;
 
-  --hue: 20;
+  --hue: 170;
   --primary-color: hsl(var(--hue), 100%, 26%);
   --secondary-color-black: hsl(210, 11%, 15%);
   --secondary-color-gray: hsl(210, 9%, 31%);
